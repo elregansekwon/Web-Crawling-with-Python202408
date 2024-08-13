@@ -15,4 +15,6 @@ Billboard-Hot-100-Crawling-2024
 ## 코드 복사
 ### pip install requests beautifulsoup4
 ## 사용법
-### 스크립트를 실행하여 Billboard Hot 100 차트 데이터를 수집하고, 이를 분석하거나 저장할 수 있습니다. 추가적인 기능은 차후 구현될 예정입니다.ㄴ
+### 스크립트를 실행하여 Billboard Hot 100 차트 데이터를 수집하고, 이를 분석하거나 저장할 수 있습니다. 추가적인 기능은 차후 구현될 예정입니다.
+
+# til
